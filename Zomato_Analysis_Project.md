@@ -11,7 +11,6 @@ This project aims to analyze key metrics from Zomato's restaurant data, focusing
 
 ### 1. **Build a Data Model Using the Sheets in the Excel File**
    - **Description**: Create a structured data model to organize and analyze the dataset efficiently.
-   - **Tools Used**: Excel (Data Modeling)
 
 ### 2. **Build a Calendar Table**
    - **Description**: Using the `Datekey_Opening` column, generate a calendar table and add the following columns using formulas:
@@ -24,39 +23,30 @@ This project aims to analyze key metrics from Zomato's restaurant data, focusing
      - Weekdayname
      - FinancialMonth (April = FM1, May = FM2, …, March = FM12)
      - Financial Quarter (FQ-1, FQ-2, etc.)
-   - **Tools Used**: Excel
-
+       
 ### 3. **Convert Average Cost for 2 People to USD**
    - **Description**: Convert the "Average cost for 2" column (currently in local currency) into USD using the relevant exchange rate.
-   - **Tools Used**: Excel
-
+     
 ### 4. **Number of Restaurants by City and Country**
    - **Description**: Count the total number of restaurants across various cities and countries.
-   - **Tools Used**: Excel, Power BI, Tableau
 
 ### 5. **Restaurants Opened by Year, Quarter, and Month**
    - **Description**: Analyze the number of new restaurant openings over time, broken down by year, quarter, and month.
-   - **Tools Used**: Excel, Power BI, Tableau
-
+     
 ### 6. **Count of Restaurants by Average Ratings**
    - **Description**: Categorize restaurants based on their average customer ratings.
-   - **Tools Used**: Excel, Tableau
 
 ### 7. **Bucketization of Restaurants by Average Price**
    - **Description**: Group restaurants into buckets based on their average price for two people and count how many fall into each price range.
-   - **Tools Used**: Excel, Tableau
 
 ### 8. **Percentage of Restaurants with Table Booking**
    - **Description**: Calculate the percentage of restaurants that offer table booking services.
-   - **Tools Used**: Excel, Tableau
 
 ### 9. **Percentage of Restaurants with Online Delivery**
    - **Description**: Calculate the percentage of restaurants that offer online delivery services.
-   - **Tools Used**: Excel, Tableau
-
+     
 ### 10. **Develop Charts Based on Cuisines, Cities, and Ratings**
    - **Description**: Create visualizations to analyze trends related to cuisines, cities, and restaurant ratings. Additional KPIs can be considered based on findings.
-   - **Tools Used**: Power BI, Tableau
 
 ---
 

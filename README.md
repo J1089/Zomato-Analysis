@@ -14,10 +14,10 @@ This project aims to analyze key metrics from Zomato's restaurant data, focusing
 ## Key Performance Indicators (KPIs)
 
 ### 1. **Build a Data Model Using the Sheets in the Excel File**
-   - **Description**: Create a structured data model to organize and analyze the dataset efficiently.
+   - **Description**: Created a structured data model to organize and analyze the dataset efficiently.
 
 ### 2. **Build a Calendar Table**
-   - **Description**: Using the `Datekey_Opening` column, generate a calendar table and add the following columns using formulas:
+   - **Description**: Used the `Datekey_Opening` column, generate a calendar table and add the following columns using formulas:
      - Year
      - Monthno
      - Monthfullname
@@ -29,28 +29,28 @@ This project aims to analyze key metrics from Zomato's restaurant data, focusing
      - Financial Quarter (FQ-1, FQ-2, etc.)
        
 ### 3. **Convert Average Cost for 2 People to USD**
-   - **Description**: Convert the "Average cost for 2" column (currently in local currency) into USD using the relevant exchange rate.
+   - **Description**: Converted the "Average cost for 2" column (currently in local currency) into USD using the relevant exchange rate.
      
 ### 4. **Number of Restaurants by City and Country**
-   - **Description**: Count the total number of restaurants across various cities and countries.
+   - **Description**: Counted the total number of restaurants across various cities and countries.
 
 ### 5. **Restaurants Opened by Year, Quarter, and Month**
-   - **Description**: Analyze the number of new restaurant openings over time, broken down by year, quarter, and month.
+   - **Description**: Analyzed the number of new restaurant openings over time, broken down by year, quarter, and month.
      
 ### 6. **Count of Restaurants by Average Ratings**
-   - **Description**: Categorize restaurants based on their average customer ratings.
+   - **Description**: Categorized the restaurants based on their average customer ratings.
 
 ### 7. **Bucketization of Restaurants by Average Price**
-   - **Description**: Group restaurants into buckets based on their average price for two people and count how many fall into each price range.
+   - **Description**: Grouped the restaurants into buckets based on their average price for two people and count how many fall into each price range.
 
 ### 8. **Percentage of Restaurants with Table Booking**
-   - **Description**: Calculate the percentage of restaurants that offer table booking services.
+   - **Description**: Calculated the percentage of restaurants that offer table booking services.
 
 ### 9. **Percentage of Restaurants with Online Delivery**
-   - **Description**: Calculate the percentage of restaurants that offer online delivery services.
+   - **Description**: Calculated the percentage of restaurants that offer online delivery services.
      
 ### 10. **Develop Charts Based on Cuisines, Cities, and Ratings**
-   - **Description**: Create visualizations to analyze trends related to cuisines, cities, and restaurant ratings. Additional KPIs can be considered based on findings.
+   - **Description**: Created visualizations to analyze trends related to cuisines, cities, and restaurant ratings. Additional KPIs can be considered based on findings.
 
 ---
 

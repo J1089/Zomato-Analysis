@@ -8,6 +8,9 @@ This project aims to analyze key metrics from Zomato's restaurant data, focusing
 
 ---
 
+## Live Interactive Dashboard
+[Zomato Analysis](https://app.powerbi.com/view?r=eyJrIjoiNzM2ZDU0MDAtN2ZkOC00ZGYyLWI4ZmMtNjNmYzY4NzZiMDNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Key Performance Indicators (KPIs)
 
 ### 1. **Build a Data Model Using the Sheets in the Excel File**
